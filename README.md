@@ -1,5 +1,16 @@
-# 💫 About Me:
-<h1 align="center">Hey there, I'm Aniket! 👋</h1><br><br><p align="center">A curious developer & creator from India 🇮🇳</p><br><br><p align="center"><br>  <em>I build worlds in Unreal Engine, craft code in C, Java, design for the web, and edit for fun — always learning something new.</em><br></p><br><br>---<br><br>- 🎮 **Game Dev** — Building maps and environments in **Unreal Engine**<br>- ☕ **Currently Learning** — **Java** & diving deeper into programming<br>- 🌐 **Web Development** — HTML, CSS, JavaScript & frontend design<br>- 🎬 **Creative Side** — Video/photo **editing** on the side<br>- ⚡ **Fun fact** — Jack of many trades, master of... more every day!
+<h1 align="center">Hey there, I'm Aniket! 👋</h1>
+
+<p align="center">A curious developer & creator from India 🇮🇳</p>
+
+<p align="center"><em>I build worlds in Unreal Engine, craft code in C & Java, design for the web, and edit for fun — always learning something new.</em></p>
+
+---
+
+- 🎮 **Game Dev** — Building maps and environments in **Unreal Engine**
+- ☕ **Currently Learning** — **Java** & diving deeper into programming
+- 🌐 **Web Development** — HTML, CSS, JavaScript & frontend design
+- 🎬 **Creative Side** — Video/photo **editing** on the side
+- ⚡ **Fun fact** — Jack of many trades, master of... more every day!
 
 
 ## 🌐 Socials:
